@@ -1,2 +1,3 @@
 Loan Approval Prediction 
-Simple pyton program
+
+Simple python program
